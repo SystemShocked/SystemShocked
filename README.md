@@ -1,6 +1,5 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Java / Springboot
 
 
 <!---
