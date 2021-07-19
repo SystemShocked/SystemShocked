@@ -1,6 +1,7 @@
-- 👋 Hi, I’m George
+- 👋 Hi, I’m George.
 - 👀 I’m interested in programming.
-- :dizzy_face: So much Information
+- :dizzy_face: So much Information.
+- :heart: I like Java / Springboot and Python.
 
 
 <!---
