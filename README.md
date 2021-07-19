@@ -1,5 +1,6 @@
 - 👋 Hi, I’m George
 - 👀 I’m interested in programming.
+- :dizzy_face: So much Information
 
 
 <!---
